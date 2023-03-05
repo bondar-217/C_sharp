@@ -12,11 +12,11 @@ Console.WriteLine(randomnum);
 Console.WriteLine(SecondValue(randomnum));
 */
 
-/*
+
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 int LastValue(int number)
 {
-    int result = -1;
+    int result = -0;
     if (number >= 100)
     {
         while (number > 999)
@@ -31,17 +31,13 @@ int LastValue(int number)
 Console.Write("Input your number : ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-if (LastValue(number) == -1) Console.WriteLine("третьей цифры нет");
+if (LastValue(number) == -0) Console.WriteLine("третьей цифры нет");
 else Console.WriteLine(number);
 Console.WriteLine(LastValue(number));
-*/
+
 
 //Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-// 6 -> да
-// 7 -> да
-// 1 -> нет
-
-
+/*
 Console.Write("Введи день недели: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
@@ -56,3 +52,4 @@ void Weekendornot(int day)
 
 }
 Weekendornot(day);
+*/
