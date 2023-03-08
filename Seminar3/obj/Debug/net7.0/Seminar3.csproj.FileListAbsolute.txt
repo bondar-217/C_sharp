@@ -1,0 +1,15 @@
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/bin/Debug/net7.0/Seminar3
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/bin/Debug/net7.0/Seminar3.deps.json
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/bin/Debug/net7.0/Seminar3.runtimeconfig.json
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/bin/Debug/net7.0/Seminar3.dll
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/bin/Debug/net7.0/Seminar3.pdb
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.csproj.AssemblyReference.cache
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.AssemblyInfoInputs.cache
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.AssemblyInfo.cs
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.csproj.CoreCompileInputs.cache
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.dll
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/refint/Seminar3.dll
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.pdb
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/Seminar3.genruntimeconfig.cache
+/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar3/obj/Debug/net7.0/ref/Seminar3.dll
