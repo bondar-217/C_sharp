@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bondar/GIT_Project/Console_App/Seminar5/Seminar5.csproj": {}
+    "/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar5/Seminar5.csproj": {}
   },
   "projects": {
-    "/Users/bondar/GIT_Project/Console_App/Seminar5/Seminar5.csproj": {
+    "/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar5/Seminar5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bondar/GIT_Project/Console_App/Seminar5/Seminar5.csproj",
+        "projectUniqueName": "/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar5/Seminar5.csproj",
         "projectName": "Seminar5",
-        "projectPath": "/Users/bondar/GIT_Project/Console_App/Seminar5/Seminar5.csproj",
+        "projectPath": "/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar5/Seminar5.csproj",
         "packagesPath": "/Users/bondar/.nuget/packages/",
-        "outputPath": "/Users/bondar/GIT_Project/Console_App/Seminar5/obj/",
+        "outputPath": "/Users/bondar/GIT_Project/Console_App/Project_C#/Seminar5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bondar/.nuget/NuGet/NuGet.Config"
